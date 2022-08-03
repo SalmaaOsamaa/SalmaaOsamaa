@@ -1,4 +1,10 @@
-### Hi there my name is SalmaOsama I'm a Software Developer 👩🏻‍💻 👋
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
+</div>
+
+
+### Hi there my name is Salma Osama I'm a Software Developer 👩🏻‍💻 👋
 
 ### main technologies that i work with are : 
 
@@ -22,18 +28,6 @@
   ![TailWind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![WebPack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 
-<!--
-**SalmaaOsamaa/SalmaaOsamaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
