@@ -4,10 +4,6 @@
   <div id="badges">
   <a href="https://www.linkedin.com/in/salma-osama-12596sall/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    - :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-SalmaOsama-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/salma-osama-12596sall/)
-
-    
-   
       </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=SalmaaOsamaa&style=flat-square&color=blue" alt=""/>
@@ -22,10 +18,9 @@
 </div>
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications using Javascript technologies.
-
 - :seedling: Exploring Technical Content Writing.
-
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
+- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-SalmaOsama-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/salma-osama-12596sall/)
 
 ### main technologies that i work with are : 
 
