@@ -11,7 +11,7 @@
 </div>
 
 
-### Hi there my name is Salma Osama I'm a fullstack Software Developer i use ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)👩🏻‍💻 👋
+### Hi there my name is Salma Osama I'm a fullstack Software Developer i use  ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E).  👩🏻‍💻 👋
 
 <div align="center" width="auto">
   <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="600" height="300"/>
