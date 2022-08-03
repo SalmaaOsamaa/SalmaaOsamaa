@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-<a href="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Interested%20in%20Frontend%20development;Loves%20Tech%20Articles.%20.%20.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front%20End%20Developer;Machine%20Learning%20Enthusiastic;Electrical%20Engineer;Always%20learning%20.%20.%20.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
   <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="100"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/salma-osama-12596sall/">
