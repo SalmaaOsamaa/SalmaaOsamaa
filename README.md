@@ -13,7 +13,7 @@
 
 ### Hi there my name is Salma Osama I'm a Software Developer 👩🏻‍💻 👋
 
-<div align="center">
+<div align="center" width="auto">
   <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="600" height="300"/>
 </div>
 
