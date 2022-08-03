@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there my name is SalmaOsama I'm a Software Developer 👩🏻‍💻 👋
 
 <!--
 **SalmaaOsamaa/SalmaaOsamaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
