@@ -12,7 +12,7 @@
 
 
 
-### Hi there 👋 my name is Salma Osama I'm a fullstack Software Developer 👩🏻‍💻 i write code  usine ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) and ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+### Hi there 👋 my name is Salma Osama I'm a fullstack Software Developer 👩🏻‍💻 i write code  using ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) and ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
 
 <br/>
 
