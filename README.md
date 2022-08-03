@@ -4,6 +4,7 @@
   <div id="badges">
   <a href="https://www.linkedin.com/in/salma-osama-12596sall/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    [![Linkedin Badge](https://img.shields.io/badge/-SalmaOsama-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/salma-osama-12596sall/)
       </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=SalmaaOsamaa&style=flat-square&color=blue" alt=""/>
