@@ -7,8 +7,10 @@
       </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=SalmaaOsamaa&style=flat-square&color=blue" alt=""/>
-
 </div>
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Interested%20in%20Frontend%20development;Loves%20Tech%20Articles.%20.%20.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
 
 
 ### Hi there 👋 my name is Salma Osama I'm a fullstack Software Developer 👩🏻‍💻 i use  ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E).  
