@@ -17,6 +17,12 @@
   <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="600" height="300"/>
 </div>
 
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications using Javascript technologies.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on LeetCode and read tech articles.
+
 ### main technologies that i work with are : 
 
 
