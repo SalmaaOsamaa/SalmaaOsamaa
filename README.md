@@ -14,7 +14,7 @@
 ### Hi there my name is Salma Osama I'm a Software Developer 👩🏻‍💻 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="600" height="300"/>
 </div>
 
 ### main technologies that i work with are : 
