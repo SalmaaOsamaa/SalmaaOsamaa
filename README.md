@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Interested%20in%20Frontend%20development;Loves%20Tech%20Articles.%20.%20.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a> <br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+a+frontEnd+Developer+;Loves+Reading+tech+articles;Enjoys+solving+problems;I+use+JavaScript+!" alt="Typing SVG" /></a> <br/>
   <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="100"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/salma-osama-12596sall/">
