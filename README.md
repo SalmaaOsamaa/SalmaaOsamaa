@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+a+frontEnd+Developer+;Who+loves+Reading+tech+articles;Also+enjoys+solving+problems;I+use+JavaScript+!" alt="Typing SVG" /></a> <br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+a+frontEnd+Developer+;Who+loves+Reading+tech+articles;Also+enjoys+solving+problems;I+use+TypeScript+!" alt="Typing SVG" /></a> <br/>
   <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="100"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/salma-osama-12596sall/">
